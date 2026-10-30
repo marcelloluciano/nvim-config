@@ -20,6 +20,7 @@ Before starting you must have:
 - Write nvim on your terminal 
 
 ## Project Structure
+'''
 ~/.config/nvim/ 
 ├── init.lua           # Main entry point: loads core modules and lazy.nvim
 ├── lazy-lock.json     # Lockfile pinning exact plugin versions
@@ -35,7 +36,7 @@ Before starting you must have:
         ├── oneliners.lua  # Lightweight plugins and quick utilities
         ├── telescope.lua  # Fuzzy finder for files, buffers, and text
         └── treesitter.lua # Code highlighting and parsing
-
+'''
 
 | What do you want to change? | Target File | Description |
 | :--- | :--- | :--- |
