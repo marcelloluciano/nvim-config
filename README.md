@@ -37,6 +37,7 @@ Before starting you must have:
         ├── telescope.lua  # Fuzzy finder for files, buffers, and text
         └── treesitter.lua # Code highlighting and parsing
 </pre>
+
 | What do you want to change? | Target File | Description |
 | :--- | :--- | :--- |
 | **Editor options** | `lua/config/options.lua` | Line numbers, indentation, clipboard, independent of plugins. |
